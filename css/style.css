@@ -6,6 +6,7 @@
     --dark: #12141D;
 }
 
+
 .back-to-top {
     position: fixed;
     display: none;
@@ -265,6 +266,7 @@
     transition: .5s;
     border-bottom: 2px solid transparent;
 }
+
 
 #portfolio-flters li:hover,
 #portfolio-flters li.active {
